@@ -18,6 +18,8 @@
 - 更改了页边距
 - 加入了竞赛经历section
 - 修改默认性别`沃尔玛购物袋`为`武装直升机`
+- 修复了`material-symbols.sty`中ItalicFont参数名称拼写错误导致会在overleaf平台上报错的情况
+
 
 > [!WARNING]
 > 请注意，本模板在提供了在header（简历左上方）中显示白色南京理工大学校徽的代码，但因为技术原因已被注释。
@@ -30,7 +32,7 @@
 
 - 编辑 `main.tex` 中的内容，对文档样式和内容进行修改。
 - 使用 `XeLaTeX` 或 `LuaLaTeX` 编译。
-- 使用 [overleaf平台](www.overleaf.com) 导入本仓库并进行在线编译，实时预览并下载最终PDF文档结果。
+- 使用 [overleaf平台](www.overleaf.com) 导入本仓库并进行在线编译，实时预览并下载最终PDF文档结果。由于平台收费政策限制，尽管可以免费试用Github Sync功能，仍需要绑定信用卡。对此，你也可以clone本仓库到本地后打包为zip压缩包，然后上传至overleaf平台上。
 
 ## 友情链接
 
