@@ -36,3 +36,4 @@
 
 - [南京理工大学 · 课程攻略共享计划](https://github.com/NJUST-OpenLib/NJUST-docs)
 - [南京理工大学 · 开放知识库](https://github.com/NJUST-OpenLib/NJUST-OpenLib)
+- 对于有紧凑排版需求的同学可以从这里找想要的模板：[适合中文的简历模板awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese)
